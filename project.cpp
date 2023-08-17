@@ -8,6 +8,7 @@ using namespace std;
 class Person
 {
 public:
+	pint k = 567567;
     string name = "  ";
     int age = 0 ;
     int id = 00000;
